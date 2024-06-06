@@ -6,9 +6,12 @@ I am a front end development student based in Oslo, Norway. I have a passion for
 
 ## 🚀 Skills and Technologies
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks and Libraries:** Currently learning react
-- **Tools and Platforms:** Sourcetree, VS Code, Figma, Chrome Devtools
+- **Languages:** :
+- HTML, CSS, JavaScript
+- **Frameworks and Libraries:**:
+-  Currently learning react
+- **Tools and Platforms:**:
+-  Sourcetree, VS Code, Figma, Chrome Devtools
 
 ## 🛠️ Projects
 
