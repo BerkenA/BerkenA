@@ -44,7 +44,7 @@ Languages used: HTML, CSS, and JavaScript.
 
 ## 🌱 Currently Learning
 
-- [React]
+- React
 
 
 ## 💬 Connect with Me
