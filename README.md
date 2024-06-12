@@ -1,6 +1,6 @@
 # Hi, I'm Berken Ates! 👋
 
-## About Me
+## About me
 
 I am a front end development student based in Oslo, Norway. I have a passion for web development, and creating great user experiences. I am currently done with my first year at Noroff University College and can't wait to start my second year! 
 
