@@ -9,49 +9,47 @@ I am a front end development student based in Oslo, Norway. I have a passion for
 - **Languages:** 
   HTML, CSS, JavaScript
 - **Frameworks and Libraries:**
-   Currently learning react
+  React, TailwindCSS, Bootstrap
 - **Tools and Platforms:**
    Git Bash, VS Code, Figma, Chrome Devtools
 
 ## 🛠️ Projects
 
-### [Tech Tips Daily](https://github.com/BerkenA/FED1-Exam-HTML-CSS-JS-Berken)
-Tech Tips Daily, a front-end development blog.
-Utilizing JavaScript, I’ve integrated an API to enable seamless posting, editing, and deletion of blog posts.
-Additionally, I've implemented user authentication features, allowing registration of an account.
-The admin could also log in through the API for a personalized admin page.
-This was my last exam in my first year at Noroff University College.
+### [Anemic Heroes](https://github.com/AnemicGames/AnemicHeroes)
+Anemic heroes a web based dungeon crawler.
+This was a team project consisting of me and 4 other students.
+Select between 3 different classes and set out on your adventure!
+Travel the map and fight mobs and bosses along the way.
+Gather gold and items to make your character stronger and to conquer the anemic world!
 Design: Figma.
-Languages used: HTML, CSS, JavaScript
+Languages used: CSS (Tailwind), JavaScript (React)
 
-### [Science Museum](https://github.com/BerkenA/my-final-exam-design-html-css)
-Science Museum, an online museum for children aged 7-14.
-Decided to use bright and playfull colors to make science come to life.
-Designed during my first session exam in my first year.  
-Dive into interactive exhibits, fun facts, and captivating visuals!
+### [Online shop](https://github.com/BerkenA/react-ca)
+Online shop your place for everything random!
+This was a school project where I had my first experience with React.
+Learnt a lot about hooks and components and how to create a complete online shop using these.
 Design: Figma.
-Languages used: HTML, CSS, Javascript (Very minor, only for the burgermenu).
+Languages used: CSS (Tailwind), Javascript (React).
 
-### [Frame Photography](https://github.com/BerkenA/Agency1-frame)
-Frame Photography, photo service for headshots, Tinder pictures, wedding photos, and bourdoir sessions.
-Developed as a group project (of 5) called Agency 1, during our second session, first year.
-I contributed by creating the reviews and prices page.
-Frame Photography offers a seamless and visually stunning experience!
+### [Holidaze](https://github.com/BerkenA/berken-holiday-exam)
+Holidaze your complete holiday booking platform!
+A complete holiday booking platform built with React and powered by the Noroff API. Users can book vacations or list their own holiday homes for rent. The app features smooth date selection with DatePicker, interactive alerts using react-confirm-alert, and real-time notifications via Toastify for an enhanced user experience.
+
 Design: Figma.
-Languages used: HTML, CSS, and JavaScript.
+Languages used: CSS (Tailwind), and JavaScript (React).
 
 *...and more on my [GitHub profile](https://github.com/BerkenA?tab=repositories).*
 
 ## 🌱 Currently Learning
 
-- React
+- Going to learn Backend programming from the summer of 2025
 
 
 ## 💬 Connect with Me
 
 - [Email](berken_93@hotmail.com)
 - [LinkedIn](https://no.linkedin.com/in/berken-ates-0a9281171)
-- [Portfolio](https://my-portfolio-orcin-delta-30.vercel.app/)
+- [Portfolio](https://berkens-portfolio.netlify.app/)
 
 ## 🤝 Contributing
 
